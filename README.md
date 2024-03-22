@@ -34,11 +34,11 @@ This dashboard provides visualizations for various metrics related to your Subsq
 
 Feel free to customize this dashboard according to your specific monitoring needs. You can adjust time ranges, add new panels, or modify existing ones to suit your requirements.
 
-##Contributing
+## Contributing
 
 Contributions to improve this dashboard are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on the GitHub repository.
 
-##License
+## License
 
 This dashboard is provided under the MIT License, meaning you are free to use, modify, and distribute it as per the terms of the license.
 
